@@ -1,0 +1,5 @@
+﻿  komm.cpp
+C:\Users\mmagaga\Desktop\komm\komm\komm.cpp(55,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mmagaga\Desktop\komm\komm\komm.cpp(70,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mmagaga\Desktop\komm\komm\komm.cpp(128,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  komm.vcxproj -> C:\Users\mmagaga\Desktop\komm\x64\Debug\komm.exe
